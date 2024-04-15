@@ -1,4 +1,10 @@
-# PX4 Pro Drone Autopilot
+# RMUAST - EDIT 
+This repository was forked from [PX4-Autopilot](https://github.com/PX4/PX4-autopilot) for the RMUAST course at SDU.
+It contains specific code concerning that course and is not useable for normal development. 
+This Repo is Archived for prosperity's sake. 
+
+
+## PX4 Pro Drone Autopilot
 
 [![Releases](https://img.shields.io/github/release/PX4/Firmware.svg)](https://github.com/PX4/Firmware/releases) [![DOI](https://zenodo.org/badge/22634/PX4/Firmware.svg)](https://zenodo.org/badge/latestdoi/22634/PX4/Firmware)
 
